@@ -1,6 +1,7 @@
 #Auction System to Determine the Highest Bidder
 
 def find_highest_bidder(bidders_dict):
+    """Takes a dictionary as parameter and prints the highest bid with bidder!"""
     highest_bid = 0
     highest_bidder = ""
     for bidder in bidders_dict:

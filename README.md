@@ -30,7 +30,6 @@ When I'm not coding, you can find me reading tech blogs, participating in coding
 - Created an automation script in Python to send birthday wishes to friends and family. Used date comparison and email automation to streamline the process of sending personalized birthday messages.
 - Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/Birthday-wish-automation-python)
 
-  
 ### Day 2: Longest Common Prefix
 - Implemented an algorithm in Python to find the longest common prefix among an array of strings. The solution focused on minimizing comparisons and efficiently handling edge cases.
 - Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day2)
@@ -54,6 +53,12 @@ When I'm not coding, you can find me reading tech blogs, participating in coding
 - Built a quiz game using object-oriented programming in Python! Created classes for questions/logic and used a loop to control the quiz flow. 
 - Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day6)
 
+### Day 7: Inheritance and Employee Management System
+- Explored the concept of inheritance in Python. Created an **Employee Management System** that uses classes to manage employee records.
+- Implemented base classes for general employee attributes and derived classes for specific employee roles (e.g., Manager, Developer).
+- This project demonstrates how to leverage inheritance to create a scalable and organized code structure.
+- Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day7)
+
 ## Daily Log
 
 | Day | Date       | Project Title                        | Description                                                 |
@@ -64,7 +69,7 @@ When I'm not coding, you can find me reading tech blogs, participating in coding
 | 4   | 2024-09-22 | Dictionaries, Grading Program, and Auction System | Learned about dictionaries and developed a Grading Program and an Auction System. |
 | 5   | 2024-09-23 | Number Guessing Game                 | Built a Number Guessing Game where players guess a randomly selected number and receive feedback on their attempts. |
 | 6   | 2024-09-24 | Quiz Game                            | Built a quiz game using OOP in Python.                      |
-
+| 7   | 2024-09-25 | Inheritance and Employee Management System | Explored inheritance in Python and created an Employee Management System to manage employee records. |
 
 ## Feedback
 I welcome any suggestions or feedback on my projects! Feel free to reach out through my GitHub or social media.

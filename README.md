@@ -59,6 +59,12 @@ When I'm not coding, you can find me reading tech blogs, participating in coding
 - This project demonstrates how to leverage inheritance to create a scalable and organized code structure.
 - Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day7)
 
+### Day 8: File Handling, Paths, and Personalized Letters
+- Learned about **file handling** in Python and practiced working with **relative** and **absolute paths**.
+- Created a script that reads names from a file and personalizes a template letter for each name.
+- This project enhanced my understanding of reading and writing files, as well as string manipulation.
+- Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day8)
+
 ## Daily Log
 
 | Day | Date       | Project Title                        | Description                                                 |
@@ -70,8 +76,10 @@ When I'm not coding, you can find me reading tech blogs, participating in coding
 | 5   | 2024-09-23 | Number Guessing Game                 | Built a Number Guessing Game where players guess a randomly selected number and receive feedback on their attempts. |
 | 6   | 2024-09-24 | Quiz Game                            | Built a quiz game using OOP in Python.                      |
 | 7   | 2024-09-25 | Inheritance and Employee Management System | Explored inheritance in Python and created an Employee Management System to manage employee records. |
+| 8   | 2024-09-26 | File Handling, Paths, and Personalized Letters | Worked on file handling and created personalized letters for a list of names using Python. |
 
 ## Feedback
+
 I welcome any suggestions or feedback on my projects! Feel free to reach out through my GitHub or social media.
 
 - [LinkedIn](https://www.linkedin.com/in/iamrupambiswas/)

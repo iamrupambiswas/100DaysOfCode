@@ -69,6 +69,13 @@ When I'm not coding, you can find me reading tech blogs, participating in coding
 - Explored the concept of abstraction in Python using the `abc` module. 
 - Implemented a **Payment System** that supports different payment methods using an abstract base class and concrete subclasses. This project demonstrates how abstraction can be used to enforce common behaviors while allowing flexibility for different payment methods.
 - Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day9)
+
+### Day 10: Polymorphism in Python with Animal Example
+- Explored Polymorphism in Python through method overriding.
+- Created a project where different animal classes (Dog, Cat) inherit from a base class Animal, each with its own specific implementation of the sound() method.
+- This showcases the flexibility of polymorphism, allowing a single function to handle different object types dynamically.
+- Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day10)
+
   
 
 ## Daily Log
@@ -84,6 +91,7 @@ When I'm not coding, you can find me reading tech blogs, participating in coding
 | 7   | 2024-09-25 | Inheritance and Employee Management System | Explored inheritance in Python and created an Employee Management System to manage employee records. |
 | 8   | 2024-09-26 | File Handling, Paths, and Personalized Letters | Worked on file handling and created personalized letters for a list of names using Python. |
 | 9   | 2024-09-27 | Abstraction in Payment System | Implemented abstraction using a Payment System that supports PayPal and Credit Card payment processing. |
+| 10  | 2024-09-28 | Polymorphism in Python with Animal Example | Explored polymorphism through method overriding in an Animal class, demonstrating dynamic behavior in OOP. |
 
 ## Feedback
 

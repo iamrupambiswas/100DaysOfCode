@@ -88,6 +88,14 @@ When I'm not coding, you can find me reading tech blogs, participating in coding
 - This practice enhanced my understanding of efficient data manipulation and improved my coding efficiency.
 - Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day12)
 
+### Day 13 – Exception Handling in Python
+Today, I focused on mastering some key concepts in exception handling:
+- **`try-except`** blocks to catch and handle errors
+- Using **`else`** for code execution when no exceptions occur
+- **`finally`** to ensure clean-up after try-except blocks
+- Raising custom exceptions using **raise** keyword for specific error handling
+- Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day13)
+
 
   
 
@@ -107,6 +115,7 @@ When I'm not coding, you can find me reading tech blogs, participating in coding
 | 10  | 2024-09-28 | Polymorphism in Python with Animal Example | Explored polymorphism through method overriding in an Animal class, demonstrating dynamic behavior in OOP. |
 | 11  | 2024-09-29 | Mastering List Comprehension in Python | Focused on list comprehension to simplify code and tackled a data overlap problem to find common numbers between two files. |
 | 12  | 2024-09-30 | Weather Conversion with Dictionary Comprehension | Practiced dictionary comprehension in Python to convert Celsius temperatures to Fahrenheit using a dictionary for the days of the week and applying the conversion formula. |
+| 13  | 2024-10-01 | Exception Handling in Python | Learned `try-except`, `else`, `finally` blocks, raising custom exceptions using `raise` keyword for better debugging and production monitoring. |
 
 ## Feedback
 

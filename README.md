@@ -76,6 +76,12 @@ When I'm not coding, you can find me reading tech blogs, participating in coding
 - This showcases the flexibility of polymorphism, allowing a single function to handle different object types dynamically.
 - Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day10)
 
+### Day 11: Mastering List Comprehension in Python
+- Focused on list comprehension to simplify code and enhance readability.
+- Tackled a data overlap problem—finding common numbers between two files.
+- This practice improved my skills in efficient data handling and streamlined my coding process.
+- Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day11)
+
   
 
 ## Daily Log
@@ -92,6 +98,7 @@ When I'm not coding, you can find me reading tech blogs, participating in coding
 | 8   | 2024-09-26 | File Handling, Paths, and Personalized Letters | Worked on file handling and created personalized letters for a list of names using Python. |
 | 9   | 2024-09-27 | Abstraction in Payment System | Implemented abstraction using a Payment System that supports PayPal and Credit Card payment processing. |
 | 10  | 2024-09-28 | Polymorphism in Python with Animal Example | Explored polymorphism through method overriding in an Animal class, demonstrating dynamic behavior in OOP. |
+| 11  | 2024-09-29 | Mastering List Comprehension in Python | Focused on list comprehension to simplify code and tackled a data overlap problem to find common numbers between two files. |
 
 ## Feedback
 

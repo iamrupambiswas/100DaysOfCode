@@ -96,6 +96,12 @@ Today, I focused on mastering some key concepts in exception handling:
 - Raising custom exceptions using **raise** keyword for specific error handling
 - Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day13)
 
+### Day 14 – Automating Rain Alerts
+Today, I focused on enhancing my Rain Alert System using the following concepts:
+- Utilizing the `requests` module to fetch weather data from the OpenWeatherMap API
+- Implementing the `dotenv` module to securely manage API keys and credentials
+- Automating SMS notifications via **Twilio** when rain is expected
+- Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day14)
 
   
 
@@ -116,6 +122,7 @@ Today, I focused on mastering some key concepts in exception handling:
 | 11  | 2024-09-29 | Mastering List Comprehension in Python | Focused on list comprehension to simplify code and tackled a data overlap problem to find common numbers between two files. |
 | 12  | 2024-09-30 | Weather Conversion with Dictionary Comprehension | Practiced dictionary comprehension in Python to convert Celsius temperatures to Fahrenheit using a dictionary for the days of the week and applying the conversion formula. |
 | 13  | 2024-10-01 | Exception Handling in Python | Learned `try-except`, `else`, `finally` blocks, raising custom exceptions using `raise` keyword for better debugging and production monitoring. |
+| 14 | 2024-10-02 | Automating Rain Alerts | Enhanced my Rain Alert System using the `requests` module to fetch weather data from the OpenWeatherMap API, implemented the `dotenv` module to securely manage API keys and credentials, and automated SMS notifications via Twilio when rain is expected. |
 
 ## Feedback
 

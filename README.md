@@ -103,6 +103,22 @@ Today, I focused on enhancing my Rain Alert System using the following concepts:
 - Automating SMS notifications via **Twilio** when rain is expected
 - Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day14)
 
+### Day 17 – Array Rotation and Reversal
+Today, I practiced array manipulation techniques by focusing on:
+- Rotating arrays using both left and right rotation methods
+- Reversing arrays in-place without using additional space
+- Optimized solutions for handling large datasets efficiently
+- These exercises helped deepen my understanding of array data structures and improved my problem-solving speed.
+- Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day17)
+
+### Day 18 – Linear and Binary Search (Iterative & Recursive)
+Today, I focused on mastering search algorithms:
+- Implemented **Linear Search** to find elements sequentially
+- Practiced both iterative and recursive approaches for **Binary Search** to efficiently locate elements in a sorted array
+- Compared the time complexity of both algorithms, with Binary Search providing significant improvements over larger datasets
+- Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day18)
+
+
   
 
 ## Daily Log
@@ -123,6 +139,9 @@ Today, I focused on enhancing my Rain Alert System using the following concepts:
 | 12  | 2024-09-30 | Weather Conversion with Dictionary Comprehension | Practiced dictionary comprehension in Python to convert Celsius temperatures to Fahrenheit using a dictionary for the days of the week and applying the conversion formula. |
 | 13  | 2024-10-01 | Exception Handling in Python | Learned `try-except`, `else`, `finally` blocks, raising custom exceptions using `raise` keyword for better debugging and production monitoring. |
 | 14 | 2024-10-02 | Automating Rain Alerts | Enhanced my Rain Alert System using the `requests` module to fetch weather data from the OpenWeatherMap API, implemented the `dotenv` module to securely manage API keys and credentials, and automated SMS notifications via Twilio when rain is expected. |
+| 17  | 2024-10-09 | Array Rotation and Reversal | Practiced array manipulation techniques, focusing on left and right rotations, in-place reversal without using extra space, and optimizing for large datasets. |
+| 18  | 2024-10-11 | Linear and Binary Search | Mastered Linear Search and Binary Search algorithms, implementing both iterative and recursive approaches, and compared their time complexities to improve search efficiency in sorted arrays. |
+
 
 ## Feedback
 

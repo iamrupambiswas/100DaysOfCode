@@ -118,6 +118,13 @@ Today, I focused on mastering search algorithms:
 - Compared the time complexity of both algorithms, with Binary Search providing significant improvements over larger datasets
 - Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day18)
 
+### Day 19 – Sorting Algorithms (Bubble, Selection, Insertion)
+Today, I focused on exploring fundamental sorting algorithms:
+- Implemented **Bubble Sort**, which repeatedly swapped adjacent elements to sort the array
+- Practiced **Selection Sort**, where I selected the smallest element from the unsorted part and placed it at the beginning
+- Worked on **Insertion Sort**, inserting elements in their correct position as I progressed through the array
+- Compared the time complexities of these algorithms and analyzed their performance on small datasets
+- Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day19)
 
   
 
@@ -141,6 +148,7 @@ Today, I focused on mastering search algorithms:
 | 14 | 2024-10-02 | Automating Rain Alerts | Enhanced my Rain Alert System using the `requests` module to fetch weather data from the OpenWeatherMap API, implemented the `dotenv` module to securely manage API keys and credentials, and automated SMS notifications via Twilio when rain is expected. |
 | 17  | 2024-10-09 | Array Rotation and Reversal | Practiced array manipulation techniques, focusing on left and right rotations, in-place reversal without using extra space, and optimizing for large datasets. |
 | 18  | 2024-10-11 | Linear and Binary Search | Mastered Linear Search and Binary Search algorithms, implementing both iterative and recursive approaches, and compared their time complexities to improve search efficiency in sorted arrays. |
+| 19  | 2024-10-14 | Sorting Algorithms| Explored Bubble, Selection, and Insertion sort algorithms, implemented them, and compared their time complexities for small datasets. |
 
 
 ## Feedback

@@ -126,7 +126,13 @@ Today, I focused on exploring fundamental sorting algorithms:
 - Compared the time complexities of these algorithms and analyzed their performance on small datasets
 - Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day19)
 
-  
+### Day 20 – Two Pointers Technique
+Today, I focused on the **Two Pointers** technique, which significantly enhanced my problem-solving skills:
+- Implemented **Two Sum**: Efficiently found two numbers in an array that add up to a specific target.
+- Practiced **Reverse Array**: Learned in-place modifications by swapping elements from both ends of the array.
+- Worked on **Remove Duplicates**: Removed duplicates from a sorted array in place, focusing on data integrity and space optimization.
+- Merged **Sorted Arrays**: Combined two sorted arrays into one using the two-pointer approach.
+- Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day20)
 
 ## Daily Log
 
@@ -149,6 +155,7 @@ Today, I focused on exploring fundamental sorting algorithms:
 | 17  | 2024-10-09 | Array Rotation and Reversal | Practiced array manipulation techniques, focusing on left and right rotations, in-place reversal without using extra space, and optimizing for large datasets. |
 | 18  | 2024-10-11 | Linear and Binary Search | Mastered Linear Search and Binary Search algorithms, implementing both iterative and recursive approaches, and compared their time complexities to improve search efficiency in sorted arrays. |
 | 19  | 2024-10-14 | Sorting Algorithms| Explored Bubble, Selection, and Insertion sort algorithms, implemented them, and compared their time complexities for small datasets. |
+| 20  | 2024-10-15 | Two Pointers Technique      | Delved into the Two Pointers technique, implementing solutions for Two Sum, Reverse Array, Remove Duplicates, and Merge Sorted Arrays to enhance problem-solving skills. |
 
 
 ## Feedback

@@ -134,6 +134,24 @@ Today, I focused on the **Two Pointers** technique, which significantly enhanced
 - Merged **Sorted Arrays**: Combined two sorted arrays into one using the two-pointer approach.
 - Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day20)
 
+### Day 22 – Linked List Implementation and Traversal
+Today, I delved into the world of **Linked Lists** and focused on their implementation and traversal techniques:
+- Implemented a **Singly Linked List**, understanding the structure of nodes and how they link together.
+- Learned how to **traverse** a linked list, visiting each node and accessing its value.
+- Practiced methods to **insert nodes** at various positions (beginning, end, and specific indices) to enhance my understanding of dynamic memory allocation.
+- Explored how to **delete nodes** and manage links correctly to maintain the integrity of the list.
+- Developed a clear grasp of the differences between arrays and linked lists regarding memory management and performance.
+- Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day22)
+
+### Day 23 – Linked List Operations: Adding and Deleting Nodes
+Today, I focused on advanced operations for **Linked Lists**:
+- Implemented the functionality to **add a new node** to the linked list at various positions (beginning, end, and specific indices).
+- Practiced the process of **deleting existing nodes**, ensuring that the links between nodes are properly managed to maintain the list's integrity.
+- Explored edge cases such as deleting the head node and handling empty lists.
+- Developed methods to traverse the list and display its contents after performing additions and deletions.
+- Gained a deeper understanding of how dynamic memory allocation works in linked lists compared to static data structures like arrays.
+- Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day23)
+
 ## Daily Log
 
 | Day | Date       | Project Title                        | Description                                                 |
@@ -156,6 +174,8 @@ Today, I focused on the **Two Pointers** technique, which significantly enhanced
 | 18  | 2024-10-11 | Linear and Binary Search | Mastered Linear Search and Binary Search algorithms, implementing both iterative and recursive approaches, and compared their time complexities to improve search efficiency in sorted arrays. |
 | 19  | 2024-10-14 | Sorting Algorithms| Explored Bubble, Selection, and Insertion sort algorithms, implemented them, and compared their time complexities for small datasets. |
 | 20  | 2024-10-15 | Two Pointers Technique      | Delved into the Two Pointers technique, implementing solutions for Two Sum, Reverse Array, Remove Duplicates, and Merge Sorted Arrays to enhance problem-solving skills. |
+| 22  | 2024-10-24 | Linked List Implementation       | Focused on implementing a Singly Linked List and learned how to traverse it, insert nodes at various positions, and delete nodes while maintaining list integrity. |
+| 23  | 2024-10-26 | Linked List Operations           | Practiced advanced operations by adding new nodes and deleting existing ones in a linked list, managing links properly, and handling edge cases.          |
 
 
 ## Feedback

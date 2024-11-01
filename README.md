@@ -152,6 +152,31 @@ Today, I focused on advanced operations for **Linked Lists**:
 - Gained a deeper understanding of how dynamic memory allocation works in linked lists compared to static data structures like arrays.
 - Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day23)
 
+### Day 24 – Hash Tables: Basics and Practical Use Cases
+Today, I explored the fundamentals of **Hash Tables**:
+- Implemented core operations like **adding, searching, and deleting** elements in a hash table.
+- Learned how hash tables can provide efficient data access and are especially useful for cases where fast lookups are essential.
+- Experimented with hash functions to understand how they distribute data across the table.
+- Tested edge cases to strengthen my grasp of hash table reliability and performance.
+- Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day24)
+
+### Day 25 – Cycle Detection in Linked Lists: Floyd’s Tortoise and Hare
+Today's focus was on **Floyd's Cycle Detection Algorithm** (Tortoise and Hare):
+- Implemented this algorithm to detect cycles in **linked lists** and understand how it operates with two pointers moving at different speeds.
+- Tested the algorithm on both cyclic and non-cyclic lists to observe its behavior.
+- Explored the **time complexity** (O(n)) and why it's an efficient approach for cycle detection.
+- Gained insights into the algorithm’s applications in various computer science problems.
+- Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day25)
+
+### Day 26 – Stacks: Matching Parentheses Problem
+Today, I focused on **Stacks**, a fundamental data structure in programming:
+- Explored the **LIFO (Last In, First Out)** principle that defines stack behavior and its real-world applications.
+- Implemented a stack in Python, practicing operations like pushing and popping elements.
+- Solved the **Matching Parentheses Problem**, developing an algorithm to check for balanced parentheses in expressions.
+- Gained insights into how stacks are used for parsing and validating expressions in compilers and interpreters.
+- Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day26)
+
+
 ## Daily Log
 
 | Day | Date       | Project Title                        | Description                                                 |
@@ -176,7 +201,9 @@ Today, I focused on advanced operations for **Linked Lists**:
 | 20  | 2024-10-15 | Two Pointers Technique      | Delved into the Two Pointers technique, implementing solutions for Two Sum, Reverse Array, Remove Duplicates, and Merge Sorted Arrays to enhance problem-solving skills. |
 | 22  | 2024-10-24 | Linked List Implementation       | Focused on implementing a Singly Linked List and learned how to traverse it, insert nodes at various positions, and delete nodes while maintaining list integrity. |
 | 23  | 2024-10-26 | Linked List Operations           | Practiced advanced operations by adding new nodes and deleting existing ones in a linked list, managing links properly, and handling edge cases.          |
-
+| 24  | 2024-10-29 | Hash Tables                        | Explored the basics of hash tables by implementing core operations like adding, searching, and deleting elements, while experimenting with hash functions. |
+| 25  | 2024-10-30 | Floyd's Cycle Detection Algorithm   | Studied Floyd's Cycle Detection Algorithm, implementing it to identify cycles in linked lists and analyzing its efficiency with time complexity.  |
+| 26  | 2024-10-31 | Stacks: Matching Parentheses    | Today, I focused on **Stacks** and implemented a solution for the **Matching Parentheses Problem**.                                           |
 
 ## Feedback
 

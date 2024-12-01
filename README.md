@@ -176,6 +176,72 @@ Today, I focused on **Stacks**, a fundamental data structure in programming:
 - Gained insights into how stacks are used for parsing and validating expressions in compilers and interpreters.
 - Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day26)
 
+### Day 27 – Queue Implementation in Python
+Today, I focused on implementing a **Queue**, an essential data structure in programming:
+- Explored the **FIFO (First In, First Out)** principle that governs queue behavior and its applications in real-world scenarios.
+- Implemented a queue in Python with basic operations such as **enqueue** (adding elements) and **dequeue** (removing elements).
+- Practiced slicing techniques to maintain the order of elements during the dequeue operation.
+- Analyzed the **time complexity** of these operations and how queues are used in algorithms like BFS (Breadth-First Search) and process scheduling.
+- Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day27)
+
+### Day 28 – Binary Tree Traversals and BFS Implementation
+Today, I delved into **Binary Trees** and practiced various traversal techniques along with **Breadth-First Search (BFS)**:
+
+- **Binary Tree Traversals**:
+  - Implemented **In-Order Traversal** to visit nodes in the order: Left → Root → Right.
+  - Implemented **Pre-Order Traversal** to visit nodes in the order: Root → Left → Right.
+  - Implemented **Post-Order Traversal** to visit nodes in the order: Left → Right → Root.
+  - Explored how each traversal technique is used in solving different problems, such as expression tree evaluation or hierarchical data representation.
+  
+- **Breadth-First Search (BFS)**:
+  - Developed a BFS algorithm using a queue to traverse all nodes level by level.
+  - Tested BFS on a binary tree structure to understand its behavior compared to depth-first traversal methods.
+  - Analyzed the **time complexity** (O(n)) and its real-world applications, such as finding the shortest path in unweighted graphs.
+  
+- Gained hands-on experience with tree traversal techniques and their use cases in algorithms and data structures.
+
+- Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day28)
+
+
+### Day 29 – Binary Search Tree (BST) Implementation
+Today, I explored **Binary Search Trees (BST)** and implemented its fundamental operations:
+
+- **Insertion**:
+  - Built the `insert` function to add elements while maintaining the BST property.
+  - Used recursion to correctly place new nodes based on comparisons with the current node.
+
+- **In-Order Traversal**:
+  - Developed the `inorder_traversal` function to traverse the BST in sorted order: Left → Root → Right.
+  - Stored the traversal result in a list to verify the correctness of the BST structure.
+
+- **Search**:
+  - Implemented the `search` function to locate a specific key in the BST.
+  - Used recursive comparisons to determine the presence of the key and printed the result (True or False).
+
+- **Key Learnings**:
+  - Understood the **time complexity** of BST operations: O(log n) for balanced trees and O(n) for skewed trees.
+  - Gained insights into the use cases of BSTs, such as searching, sorting, and dynamic sets.
+
+- Tested the implementation with sample inputs to verify correct functionality.
+
+- Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day29)
+
+
+### Day 30 – Directed Graph Implementation
+- Implemented a directed graph using an adjacency list in Python. 
+- Stored nodes as keys and their respective edges as values in a dictionary.
+- Developed methods for adding directed edges and displaying the graph structure.
+- Gained insights into graph representation and its applications in real-world scenarios like modeling dependencies, workflows, and navigation systems.
+- Check it out on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day30)
+
+### Day 31 – Undirected Graph Implementation
+- Implemented an undirected graph using an adjacency list in Python.
+- Designed methods for adding and removing edges between nodes.
+- Created a `display` method to visualize the graph structure.
+- Practiced real-world problem-solving skills by modeling a network of nodes and connections.
+- Observed how changes in edge connections impact the graph dynamically.
+- Check out the code on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day31)
+
 
 ## Daily Log
 
@@ -204,6 +270,11 @@ Today, I focused on **Stacks**, a fundamental data structure in programming:
 | 24  | 2024-10-29 | Hash Tables                        | Explored the basics of hash tables by implementing core operations like adding, searching, and deleting elements, while experimenting with hash functions. |
 | 25  | 2024-10-30 | Floyd's Cycle Detection Algorithm   | Studied Floyd's Cycle Detection Algorithm, implementing it to identify cycles in linked lists and analyzing its efficiency with time complexity.  |
 | 26  | 2024-10-31 | Stacks: Matching Parentheses    | Today, I focused on **Stacks** and implemented a solution for the **Matching Parentheses Problem**.                                           |
+| 27  | 2024-11-01 | Queue Implementation in Python       | Implemented a queue in Python using the FIFO principle, practicing enqueue and dequeue operations. |
+| 28  | 2024-11-02 | Binary Tree Traversals and BFS       | Implemented In-Order, Pre-Order, Post-Order Traversals, and BFS for Binary Trees using Python. |
+| 29  | 2024-11-03 | Binary Search Tree Implementation    | Built a Binary Search Tree (BST) with operations like insertion, in-order traversal, and search. |
+| 30  | 2024-11-04 | Directed Graph Implementation        | Implemented a directed graph using an adjacency list and developed methods for adding edges and displaying the graph. |
+| 31  | 2024-11-05 | Undirected Graph Implementation      | Built an undirected graph with operations for adding, removing edges, and displaying the graph structure. |
 
 ## Feedback
 

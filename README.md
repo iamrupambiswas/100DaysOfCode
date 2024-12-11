@@ -242,6 +242,20 @@ Today, I explored **Binary Search Trees (BST)** and implemented its fundamental 
 - Observed how changes in edge connections impact the graph dynamically.
 - Check out the code on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day31)
 
+### Day 32 – BFS for Undirected Graphs  
+- Implemented Breadth-First Search (BFS) for undirected graphs in Python.  
+- Used a queue to explore graph nodes level by level while ensuring no node was visited more than once.  
+- Applied BFS to traverse the graph and understand its structure systematically.  
+- Explored real-world applications like shortest path finding, web crawling, and social network analysis.  
+- Check out the code on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day32)  
+
+### Day 33 – DFS for Undirected Graphs  
+- Implemented Depth-First Search (DFS) for undirected graphs in Python.  
+- Used a stack to explore graph nodes deeply before backtracking to ensure all nodes were visited.  
+- Practiced solving problems like connected components and cycle detection using DFS.  
+- Gained insights into its applications in network traversal, topological sorting, and solving mazes.  
+- Check out the code on GitHub: [GitHub Link](https://github.com/iamrupambiswas/100DaysOfCode/tree/master/day33)  
+
 
 ## Daily Log
 
@@ -273,8 +287,10 @@ Today, I explored **Binary Search Trees (BST)** and implemented its fundamental 
 | 27  | 2024-11-01 | Queue Implementation in Python       | Implemented a queue in Python using the FIFO principle, practicing enqueue and dequeue operations. |
 | 28  | 2024-11-02 | Binary Tree Traversals and BFS       | Implemented In-Order, Pre-Order, Post-Order Traversals, and BFS for Binary Trees using Python. |
 | 29  | 2024-11-03 | Binary Search Tree Implementation    | Built a Binary Search Tree (BST) with operations like insertion, in-order traversal, and search. |
-| 30  | 2024-11-04 | Directed Graph Implementation        | Implemented a directed graph using an adjacency list and developed methods for adding edges and displaying the graph. |
-| 31  | 2024-11-05 | Undirected Graph Implementation      | Built an undirected graph with operations for adding, removing edges, and displaying the graph structure. |
+| 30  | 2024-11-02 | Directed Graph Implementation        | Implemented a directed graph using an adjacency list and developed methods for adding edges and displaying the graph. |
+| 31  | 2024-12-03 | Undirected Graph Implementation      | Built an undirected graph with operations for adding, removing edges, and displaying the graph structure. |
+| 32  | 2024-12-04 | BFS for Undirected Graphs            | Implemented Breadth-First Search (BFS) for undirected graphs using Python. |
+| 33  | 2024-12-05 | DFS for Undirected Graphs            | Implemented Depth-First Search (DFS) for undirected graphs using Python. |
 
 ## Feedback
 
